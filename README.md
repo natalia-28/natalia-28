@@ -1,0 +1,3 @@
+- 👋 Hola, soy @natalia-28
+- 👀 Estoy interesada en aprender codigos para usarlo en proyectos de sistemas de información geográfica
+- 🌱 Estoy estudiando una maestría en ciencias
